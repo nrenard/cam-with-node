@@ -1,0 +1,16 @@
+{
+  "name": "web-cam-ode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log": "^6.0.0",
+    "opencv4nodejs": "^5.5.0"
+  }
+}
